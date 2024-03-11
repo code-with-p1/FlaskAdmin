@@ -2,11 +2,14 @@
 
 This is a basic example of integrating Flask-Admin extension into a Flask application.
 
+# To install flask-admin
+
 `pip install flask-admin`
 
 # To install flask SQLAlchemy
 
 `pip install flask-sqlalchemy`
+
 `pip install --upgrade flask-sqlalchemy`
 
 # Run the Application
